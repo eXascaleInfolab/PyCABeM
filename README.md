@@ -1,3 +1,7 @@
+**:heavy_exclamation_mark: ATTENTION: the new version of PyCABeM based on PyExPool v.3+ with WebUI is rebranded to [Clubmark](https://github.com/eXascaleInfolab/clubmark) :heavy_exclamation_mark:  
+The PyCABeM draft repository moved to Clubmark and is not maintained here any more.**
+___
+
 # PyCABeM  - Bench ![bench mark icon](images/benchmark-64.png) marking Framework for the Clustering Algorithms Evaluation
 
 `\brief` Benchmarking of the clustering (community detection) algorithms using extrinsic (various Normalized [Mutual Information](https://en.wikipedia.org/wiki/Mutual_information)(NMI) and Mean [F1 Score](https://en.wikipedia.org/wiki/F1_score) measures) and intrinsic ([Modularity](https://en.wikipedia.org/wiki/Modularity_(networks))(Q) and [Conductance](https://en.wikipedia.org/wiki/Conductance_(graph))(f)) measures, considering overlaps (shared node membership by multiple clusters \[on the same resolution level\]) and multiple resolutions (the same node can be a full member of some cluster and parent clusters of that cluster).  
