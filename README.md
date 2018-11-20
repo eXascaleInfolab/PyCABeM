@@ -1,5 +1,5 @@
 **:heavy_exclamation_mark: ATTENTION: the new version of PyCABeM based on PyExPool v.3+ with WebUI is rebranded to [Clubmark](https://github.com/eXascaleInfolab/clubmark) :heavy_exclamation_mark:  
-The PyCABeM draft repository moved to Clubmark and is not maintained here any more.**
+The PyCABeM draft repository moved to Clubmark and is not maintained here any more. Clubmark was demonstrated in ICDM18 and published in their proceedings.**
 ___
 
 # PyCABeM  - Bench ![bench mark icon](images/benchmark-64.png) marking Framework for the Clustering Algorithms Evaluation
