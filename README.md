@@ -49,13 +49,13 @@ The benchmark is implemented as customization of the Generic Benchmarking Framew
 
 	clustering algorithms on the generated synthetic networks (or on any specified directories and files). Outputs results (clusters/communities structure, hierarchy, modularity, nmi, etc.) of the clustering algorithms are stored in the corresponding files.
 	
-	Features \ Algs | *HiReCS* | SCP | Louvain | Oslom2 | GANXiS
-	            --- | --- | --- | --- | --- | ---
-	Hierarchical    | + | | + | + |
-	Multi-scale     | + | + | + | + | + 
-	Deterministic   | + | + | | | 
-	With Overlaps   | + | + | | + | +
-	Parameter-Free  | + | | + | | 
+Features \ Algs | *HiReCS* | SCP | Louvain | Oslom2 | GANXiS
+| --- | :-: | :-: | :-: | :-: | :-:
+Hierarchical    | + | | + | + | 
+Multi-scale     | + | + | + | + | + 
+Deterministic   | + | + | | | 
+With Overlaps   | + | + | | + | +
+Parameter-Free  | + | | + | | 
 
 - evaluates results using:
 	- extrinsic measures  - NMIs for overlapping communities, extended to have uniform input / output formats:
