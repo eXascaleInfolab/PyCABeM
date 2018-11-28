@@ -1,3 +1,6 @@
+**:heavy_exclamation_mark: ATTENTION: the new version of PyCABeM based on PyExPool v.3+ with WebUI is rebranded to [Clubmark](https://github.com/eXascaleInfolab/clubmark) (demonstrated and published in ICDM18) :heavy_exclamation_mark:**
+___
+
 # PyCABeM (former HiCBeM) - Python Benchmarking Framework for the Clustering Algorithms Evaluation
 \brief Uses extrinsic (NMIs) and intrinsic (Q) measures for the clusters quality evaluation considering overlaps (nodes membership by multiple clusters)  
 \author: (c) Artem Lutov <artem@exascale.info>  
